@@ -1,1 +1,1 @@
-# Credit-Risk-Prediction
+# ml-project-credit-risk-model
